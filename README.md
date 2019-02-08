@@ -4,6 +4,8 @@ execute the follow command
   `npm install`
   `npm install eslint@5.6.0`
   `yarn`
+## Run APP
+  `npm start`
 ## Available Scripts
 
 In the project directory, you can run:
