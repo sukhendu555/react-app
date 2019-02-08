@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##prepagation
+## Prepagation
 execute the follow command
   `npm install`
   `npm install eslint@5.6.0`
