@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+##prepagation
+execute the follow command
+  `npm install`
+  `npm install eslint@5.6.0`
+  `yarn`
 ## Available Scripts
 
 In the project directory, you can run:
